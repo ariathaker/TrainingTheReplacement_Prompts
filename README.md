@@ -2,8 +2,8 @@ LLM prompts accompanying the essays on [my Substack, "Training the Replacement"]
 
 ## Use custom GPTs directly:
 
--[TS Eliot - Literary Influence Mapping](https://chatgpt.com/g/g-jJkuDIdDZ-ts-eliot-literary-influence-mapping) (Referred to in "Tradition and the Individual GPT")
+-[TS Eliot - Literary Influence Mapping](https://chatgpt.com/g/g-jJkuDIdDZ-ts-eliot-literary-influence-mapping) (Referred to my Substack essay ["Tradition and the Individual GPT"](https://trainingthereplacement.substack.com/p/tradition-and-the-individual-gpt))
 
--[Critic Recommender - Literary Influence Mapping](https://chatgpt.com/g/g-Q2ojtX2Dh-critic-recommender-literary-influence-mapping) (Referred to in "Tradition and the Individual GPT")
+-[Critic Recommender - Literary Influence Mapping](https://chatgpt.com/g/g-Q2ojtX2Dh-critic-recommender-literary-influence-mapping) (Referred to in my Substack essay ["Tradition and the Individual GPT"](https://trainingthereplacement.substack.com/p/tradition-and-the-individual-gpt))
 
 
