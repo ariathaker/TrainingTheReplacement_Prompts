@@ -1,4 +1,4 @@
-LLM prompts accompanying the essays on [my Substack, "Training the Replacement"](https://ariathaker.substack.com/), where I write about how generative AI is shaping writing, media, and society. 
+LLM prompts accompanying the essays on [my Substack, "Training the Replacement"](https://trainingthereplacement.substack.com/), where I write about how generative AI is shaping writing, media, and society. 
 
 ## Use custom GPTs directly:
 
