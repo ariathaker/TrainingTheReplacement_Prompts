@@ -1,6 +1,4 @@
-# TrainingTheReplacement_Prompts
-
-LLM prompts accompanying the essays on the "Training the Replacement" Substack 
+LLM prompts accompanying the essays on [my Substack, "Training the Replacement"](https://ariathaker.substack.com/)
 
 ## Use custom GPTs directly:
 
